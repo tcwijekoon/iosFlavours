@@ -1,0 +1,14 @@
+//
+//  Staging.xcconfig
+//  Variants
+//
+//  Created by Thushara on 2021-10-07.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// Staging.xcconfig
+BASE_URL = http:/$()/staging.dwirandyh.com
+APP_NAME = MyApp (Staging)
+APP_BUNDLE_ID = com.test.ios.staging
+

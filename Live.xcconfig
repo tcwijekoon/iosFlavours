@@ -1,0 +1,13 @@
+//
+//  Live.xcconfig
+//  Variants
+//
+//  Created by Thushara on 2021-10-07.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// Production.xcconfig
+BASE_URL = http:/$()/dwirandyh.com
+APP_NAME = MyApp
+APP_BUNDLE_ID = com.test.ios.myapp
